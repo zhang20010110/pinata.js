@@ -1,0 +1,2 @@
+# pinata.js
+pinataIPFS
